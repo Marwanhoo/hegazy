@@ -35,6 +35,12 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
 
+  # Animated dot indicators for the banner carousel and product photo gallery.
+  smooth_page_indicator: ^2.0.1
+
+  # Used to open wa.me links for WhatsApp checkout.
+  url_launcher: ^6.3.2
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
