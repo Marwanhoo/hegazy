@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../theme/app_colors.dart';
+import '../../../core/theme/app_colors.dart';
 
 /// A simple -/+ quantity stepper. Purely presentational — the parent View
 /// owns the quantity value and passes it in, wrapping the callbacks in

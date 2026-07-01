@@ -1,4 +1,4 @@
-import '../models/product.dart';
+import '../../../core/models/product.dart';
 
 /// ViewModel for the product details screen. Plain Dart, no Flutter widget
 /// dependency and no `setState` calls — the View wraps calls to its methods

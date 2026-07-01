@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../theme/app_colors.dart';
+import '../../../core/theme/app_colors.dart';
 
 /// Drawer showing brand/app details: header, navigation, categories,
 /// contact info and social links (static, MVP only).

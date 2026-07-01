@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 
-import '../models/banner_item.dart';
-import '../theme/app_colors.dart';
+import '../../../core/models/banner_item.dart';
+import '../../../core/theme/app_colors.dart';
 
 /// Hero banner carousel for the home screen: a PageView of promotional
 /// banners with a SmoothPageIndicator below it.

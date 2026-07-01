@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 
-import '../models/product.dart';
-import '../theme/app_colors.dart';
+import '../../../core/models/product.dart';
+import '../../../core/theme/app_colors.dart';
+import '../../../core/widgets/product_card.dart';
+import '../../product_details/views/product_details_screen.dart';
 import '../viewmodels/home_view_model.dart';
 import '../widgets/app_drawer.dart';
 import '../widgets/banner_carousel.dart';
-import '../widgets/product_card.dart';
-import 'product_details_screen.dart';
 
 /// Home screen (View layer): banner carousel, grid/list product toggle and
 /// the product listing. Owns a [HomeViewModel] and drives rebuilds via

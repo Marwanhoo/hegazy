@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 
-import '../models/product.dart';
-import '../theme/app_colors.dart';
-import '../utils/whatsapp_helper.dart';
+import '../../../core/models/product.dart';
+import '../../../core/theme/app_colors.dart';
+import '../../../core/utils/whatsapp_helper.dart';
+import '../../../core/widgets/product_card.dart';
 import '../viewmodels/product_details_view_model.dart';
-import '../widgets/product_card.dart';
 import '../widgets/quantity_selector.dart';
 
 /// Product details screen (View layer): photo gallery, description, color /

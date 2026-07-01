@@ -1,6 +1,6 @@
-import '../data/app_data.dart';
-import '../models/banner_item.dart';
-import '../models/product.dart';
+import '../../../core/data/app_data.dart';
+import '../../../core/models/banner_item.dart';
+import '../../../core/models/product.dart';
 
 /// ViewModel for the home screen. Plain Dart, no Flutter widget dependency
 /// and no `setState` calls — the View wraps calls to its methods in
