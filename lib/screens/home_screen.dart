@@ -34,7 +34,7 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       drawer: const AppDrawer(),
       appBar: AppBar(
-        title: const Text('Hedzy'),
+        title: const Text('Hegazy'),
         actions: [
           IconButton(
             icon: const Icon(Icons.search),

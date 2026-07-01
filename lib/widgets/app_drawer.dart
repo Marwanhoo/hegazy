@@ -36,7 +36,7 @@ class AppDrawer extends StatelessWidget {
                   ),
                   SizedBox(height: 12),
                   Text(
-                    'Hedzy',
+                    'Hegazy',
                     style: TextStyle(
                       color: Colors.white,
                       fontSize: 22,
@@ -78,7 +78,7 @@ class AppDrawer extends StatelessWidget {
             _DrawerSectionLabel(label: 'About'),
             const ListTile(
               leading: Icon(Icons.info_outline, color: AppColors.textDark),
-              title: Text('About Hedzy'),
+              title: Text('About Hegazy'),
               subtitle: Text(
                 'Premium cookware designed to elevate everyday cooking.',
               ),
@@ -104,7 +104,7 @@ class AppDrawer extends StatelessWidget {
             const Padding(
               padding: EdgeInsets.symmetric(horizontal: 16),
               child: Text(
-                'Hedzy v1.0.0',
+                'Hegazy v1.0.0',
                 style: TextStyle(color: AppColors.textMuted, fontSize: 12),
               ),
             ),

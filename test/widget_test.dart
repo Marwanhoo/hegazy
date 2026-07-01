@@ -1,4 +1,4 @@
-// Basic smoke test for the Hedzy e-commerce MVP app.
+// Basic smoke test for the Hegazy e-commerce MVP app.
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
@@ -9,10 +9,10 @@ void main() {
   testWidgets('Home screen shows brand title and best sellers section', (
     WidgetTester tester,
   ) async {
-    await tester.pumpWidget(const HedzyApp());
+    await tester.pumpWidget(const HegazyApp());
     await tester.pump();
 
-    expect(find.text('Hedzy'), findsWidgets);
+    expect(find.text('Hegazy'), findsWidgets);
     expect(find.text('Best Sellers'), findsOneWidget);
 
     // Toggling to list view should still keep the section visible.

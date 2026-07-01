@@ -4,11 +4,11 @@ import 'screens/home_screen.dart';
 import 'theme/app_colors.dart';
 
 void main() {
-  runApp(const HedzyApp());
+  runApp(const HegazyApp());
 }
 
-class HedzyApp extends StatelessWidget {
-  const HedzyApp({super.key});
+class HegazyApp extends StatelessWidget {
+  const HegazyApp({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -19,7 +19,7 @@ class HedzyApp extends StatelessWidget {
     );
 
     return MaterialApp(
-      title: 'Hedzy',
+      title: 'Hegazy',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         useMaterial3: true,

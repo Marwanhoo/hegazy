@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-/// Brand color palette, matching the Hedzy cookware Figma reference.
+/// Brand color palette, matching the Hegazy cookware Figma reference.
 class AppColors {
   AppColors._();
 

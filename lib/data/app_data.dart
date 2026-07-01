@@ -66,7 +66,7 @@ class AppData {
         BannerItem(
           image: _pot1,
           title: 'Elevate Your Everyday Cooking',
-          subtitle: 'Discover the new Hedzy collection',
+          subtitle: 'Discover the new Hegazy collection',
         ),
         BannerItem(
           image: _pan2,
@@ -82,8 +82,8 @@ class AppData {
 
   static List<Product> get products => [
         Product(
-          id: 'HZ-001',
-          title: 'Hedzy NO.1',
+          id: 'HG-001',
+          title: 'Hegazy NO.1',
           description:
               'A timeless enamel casserole built for everyday cooking. Even heat '
               'distribution, a tight-fitting lid to lock in moisture, and a '
@@ -96,8 +96,8 @@ class AppData {
           category: 'Pots',
         ),
         Product(
-          id: 'HZ-002',
-          title: 'Hedzy NO.2',
+          id: 'HG-002',
+          title: 'Hegazy NO.2',
           description:
               'A versatile non-stick frying pan designed for searing, sautéing '
               'and frying with ease. Comfortable stay-cool handle and a scratch '
@@ -109,7 +109,7 @@ class AppData {
           category: 'Pans',
         ),
         Product(
-          id: 'HZ-003',
+          id: 'HG-003',
           title: 'Casserole Premium',
           description:
               'Premium cast cookware with a heavy base for consistent heat '
@@ -122,7 +122,7 @@ class AppData {
           category: 'Pots',
         ),
         Product(
-          id: 'HZ-004',
+          id: 'HG-004',
           title: 'Frying Pan LUX Set',
           description:
               'A luxurious frying pan set crafted from forged aluminum with a '
@@ -135,7 +135,7 @@ class AppData {
           category: 'Pans',
         ),
         Product(
-          id: 'HZ-005',
+          id: 'HG-005',
           title: 'ECO Set 9 Pieces',
           description:
               'A complete eco-friendly cookware set covering all your kitchen '
@@ -148,7 +148,7 @@ class AppData {
           category: 'Sets',
         ),
         Product(
-          id: 'HZ-006',
+          id: 'HG-006',
           title: 'Premium Set 11 Pieces',
           description:
               'Our best-selling premium collection featuring pots, pans and '
@@ -160,7 +160,7 @@ class AppData {
           category: 'Sets',
         ),
         Product(
-          id: 'HZ-007',
+          id: 'HG-007',
           title: 'Porcelain Casserole',
           description:
               'An elegant porcelain casserole dish that transitions beautifully '
@@ -172,7 +172,7 @@ class AppData {
           category: 'Pots',
         ),
         Product(
-          id: 'HZ-008',
+          id: 'HG-008',
           title: 'Coffee Pot, 3 Pieces',
           description:
               'A charming stovetop coffee pot set with a stainless steel stand — '
@@ -184,7 +184,7 @@ class AppData {
           category: 'Accessories',
         ),
         Product(
-          id: 'HZ-009',
+          id: 'HG-009',
           title: 'Double Grill Premium',
           description:
               'A double-sided grill pan for stovetop grilling, delivering '
@@ -196,7 +196,7 @@ class AppData {
           category: 'Pans',
         ),
         Product(
-          id: 'HZ-010',
+          id: 'HG-010',
           title: 'Tagin Premium',
           description:
               'A traditional conical tagine that slow-cooks meat and vegetables '
@@ -208,7 +208,7 @@ class AppData {
           category: 'Pots',
         ),
         Product(
-          id: 'HZ-011',
+          id: 'HG-011',
           title: 'Bianco Bowl Set',
           description:
               'A minimalist ceramic bowl set in soft neutral tones, ideal for '
@@ -220,7 +220,7 @@ class AppData {
           category: 'Dinnerware',
         ),
         Product(
-          id: 'HZ-012',
+          id: 'HG-012',
           title: 'Blue Cookware Set 15 Pieces',
           description:
               'A generously sized 15-piece cookware set covering every pot, pan '
